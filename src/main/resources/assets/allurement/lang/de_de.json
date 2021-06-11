@@ -1,0 +1,23 @@
+{
+    "enchantment.allurement.alleviating": "Linderung",
+    "enchantment.allurement.alleviating.desc": "Heilt den Spieler, wenn dieser Erfahrungspunkte einsammelt",
+
+    "enchantment.allurement.launch": "Schleudern",
+    "enchantment.allurement.launch.desc": "Schleudert den Spieler nach oben anstelle von zurück",
+
+    "enchantment.allurement.reeling": "Einholen",
+    "enchantment.allurement.reeling.desc": "Zieht den Spieler in die Richtung des Abfeuerenden beim Einschlagen des Pfeils",
+
+    "enchantment.allurement.reforming": "Erneuerung",
+    "enchantment.allurement.reforming.desc": "Repariert Gegenstände langsam automatisch wenn der Spieler sie in der Hand oder als Rüstung trägt",
+
+    "enchantment.allurement.shockwave": "Schockwelle",
+    "enchantment.allurement.shockwave.desc": "Kreiert eine Schockwelle wenn der Spieler Fallschaden erleidet, welche Schaden and näheren Entities macht,"
+
+    "enchantment.allurement.vengeance": "Rache",
+    "enchantment.allurement.vengeance.desc": "Sammelt einen Teil erlittenen Schadens und gibt ihn beim Angriff aus ",
+
+    "death.attack.allurement.shockwave": "%1$s wurde zertreten"
+    "death.attack.allurement.shockwave.player": "%1$s wurde von %2$s zertreten",
+    "death.attack.allurement.shockwave.player.item": "%1$s wurde von %2$s zerstampft mit %3$s"
+}
