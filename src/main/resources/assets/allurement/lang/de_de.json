@@ -1,0 +1,17 @@
+{
+  "death.attack.allurement.shockwave": "%1$s wurde zertreten",
+  "death.attack.allurement.shockwave.player": "%1$s wurde von %2$s zertreten",
+  "death.attack.allurement.shockwave.player.item": "%1$s wurde von %2$s mit %3$s zertreten",
+  "enchantment.allurement.alleviating": "Erleichterung",
+  "enchantment.allurement.alleviating.desc": "Heilt den Spieler beim einsammeln von Erfahrungspunkten",
+  "enchantment.allurement.launch": "Abheben",
+  "enchantment.allurement.launch.desc": "Schleudert Gegner in die Luft",
+  "enchantment.allurement.reeling": "Einholen",
+  "enchantment.allurement.reeling.desc": "Zieht Gegner beim Treffen in die Richtung des Spielers",
+  "enchantment.allurement.reforming": "Wiederherstellung",
+  "enchantment.allurement.reforming.desc": "Repairs the durability items very slowly over time when in use",
+  "enchantment.allurement.shockwave": "Schockwelle",
+  "enchantment.allurement.shockwave.desc": "Erzeugt beim Erleiden von Fallschaden eine Gegner in der Nähe verletzende Schockwelle",
+  "enchantment.allurement.vengeance": "Rache",
+  "enchantment.allurement.vengeance.desc": "Speichert etwas von dem erlittenen Schaden und addiert es zur nächsten Attacke"
+}
